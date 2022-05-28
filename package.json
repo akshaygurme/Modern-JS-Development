@@ -1,0 +1,22 @@
+{
+  "name": "modern-js-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaygurme/Modern-JS-Development.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaygurme/Modern-JS-Development/issues"
+  },
+  "homepage": "https://github.com/akshaygurme/Modern-JS-Development#readme",
+  "dependencies": {
+    "leaflet": "^1.8.0"
+  }
+}
